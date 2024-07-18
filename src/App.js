@@ -6,7 +6,7 @@ import Alert from './components/Alert';
 import React, { useState } from 'react';
 import About from './components/About';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route
 } from 'react-router-dom';
